@@ -8,6 +8,7 @@ package bestBurger;
 /**
  *
  * @author HP
+ * added to github
  */
 public class BestBurger extends javax.swing.JFrame {
 
